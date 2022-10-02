@@ -1,0 +1,24 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "breed": "Afador"
+    },
+    {
+      "id": 2,
+      "breed": "Basador"
+    },
+    {
+      "id": 3,
+      "breed": "Canaan"
+    },
+    {
+      "id": 4,
+      "breed": "Dalmatian"
+    },
+    {
+      "id": 5,
+      "breed": "Frengle"
+    }
+  ]
+}
